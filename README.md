@@ -1,0 +1,1 @@
+The objective is to develop a Tic Tac Toe game employing Reinforcement Learning methodologies. The project comprises two primary files, namely the "Agent" and the "Environment," which collaboratively interact to construct the underlying learning algorithm.
